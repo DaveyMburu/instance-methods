@@ -6,11 +6,12 @@ In the last lesson, you learned about instance methods -- what they are and how 
 
 ## Objectives
 
-In this lab you will: 
+In this lab I have: 
 
 * Create an instance of a class 
 * Define and call an instance method
 
+# Check index.ipynb for my workings
 
 ## Define classes and instance methods
 
